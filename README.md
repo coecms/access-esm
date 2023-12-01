@@ -14,7 +14,7 @@ Create a directory in which to keep the model configurations:
     cd ~/access-esm
     git clone https://github.com/coecms/access-esm
     cd access-esm
-    git co pre-industrial
+    git checkout pre-industrial
 
 We strongly recommend to switch to a new branch for the running of the model:
 
